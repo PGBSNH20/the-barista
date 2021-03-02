@@ -11,7 +11,7 @@ Everybody in the group is driver on turn. The last thing the drives does before 
 
 The team consist of 3 to 4 persons, with the following roles:
 
-- **Driver**, the one sitting in front of the computer, and the only one using the keyboard and mouse, wears a green hat
+- **Driver**, the one sitting in front of the computer, and the only one using the keyboard and mouse, shares his/her screen
 - **Spy**, when signal is given should this person spy on another team
 - **Timekeeper**, has a "stopwatch" and makes sure the team switch places as close to 10 min as possible and that the spy only spies the allowed time
 - **Co-driver** (only for teams of four), everybody is in theory co-drivers and helps the driver. The term is taken from Rally where the co-driver keeps track on the track and the driver is responsible of steering the car.
@@ -24,7 +24,7 @@ The team rotate roles every 10 minutes, following this pattern:
 
 ## Spying
 
-When the signal (a chat message in discord: "SPY!!! HH:MM") is given should all spys go to the channel of another team to learn about their solution. Only the driver is allowed to talk with the spy and answer all the spy's questions. The total spy session from signal is given is **only** 45 seconds! And it's the assignment of the timekeeper to cut of the spy, and tell him/her to leave with what ever information he/she got.
+When the signal (a chat message in discord: "SPY!!! (Spy talk with driver for 45 sec only)") is given should all spys go to the channel of another team to learn about their solution. Only the driver is allowed to talk with the spy and answer all the spy's questions. The total spy session from signal is given is **only** 45 seconds! And it's the assignment of the timekeeper to cut of the spy, and tell him/her to leave with what ever information he/she got.
 
 A hint is to plan the spying: which team are we spying at? what are we looking for?
 
